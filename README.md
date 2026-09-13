@@ -1,8 +1,8 @@
 <div align="center">
 
-# Kareer
+# 🏆 Kareer
 
-**Your Personal Career Operating System**
+** Personal Career Operating System ⚡**
 
 [![Status](https://img.shields.io/badge/Status-In%20Development-F7DF1E?style=for-the-badge)](#)
 [![Tech](https://img.shields.io/badge/Vanilla_JS-ES6+-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
